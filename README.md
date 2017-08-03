@@ -1,0 +1,2 @@
+# minimax
+Implementing Minimax search
